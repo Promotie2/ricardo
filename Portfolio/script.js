@@ -41,10 +41,10 @@ function toggleExtra() {
   var btn = document.getElementById("toggle-btn");
   if (extraText.style.display === "none") {
     extraText.style.display = "inline";
-    btn.innerHTML = "Show Less";
+    btn.innerHTML = "Lees Minder";
   } else {
     extraText.style.display = "none";
-    btn.innerHTML = "Read More";
+    btn.innerHTML = "Lees Meer";
   }
 }
 

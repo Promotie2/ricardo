@@ -65,7 +65,7 @@ ScrollReveal().reveal('.home-content p1, .about-content', { origin: 'right' });
 
 // typed js
 const typed = new Typed('.multiple-text', {
-    strings: ['Computer Science Student'],
+    strings: ['Lees dit hier onder heel goed als je meer over me the weten wil komen'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
